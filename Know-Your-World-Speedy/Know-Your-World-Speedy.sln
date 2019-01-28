@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Know-Your-World-Speedy", "Know-Your-World-Speedy\Know-Your-World-Speedy.csproj", "{A4857D4F-55AE-403A-87E5-E552A1BE1256}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Know-Your-World-Speedy", "Know-Your-World-Speedy\Know-Your-World-Speedy.csproj", "{2FFFC57F-0824-45B7-8D74-624F950C706F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A4857D4F-55AE-403A-87E5-E552A1BE1256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A4857D4F-55AE-403A-87E5-E552A1BE1256}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A4857D4F-55AE-403A-87E5-E552A1BE1256}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A4857D4F-55AE-403A-87E5-E552A1BE1256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FFFC57F-0824-45B7-8D74-624F950C706F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFFC57F-0824-45B7-8D74-624F950C706F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFFC57F-0824-45B7-8D74-624F950C706F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFFC57F-0824-45B7-8D74-624F950C706F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B7043CA8-2FB3-4D37-990F-762421035DF4}
+		SolutionGuid = {F91FF8D3-4B8D-4F71-956E-1AA7B5A9DA94}
 	EndGlobalSection
 EndGlobal
